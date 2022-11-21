@@ -1,4 +1,4 @@
-### Take a sip from a secret potion :grey_exclamation::sparkles: <br/>
+### Take a sip from a secret potion :sparkles: <br/>
 ⋆    ˚   ✩    ｡˚      ˚  ⋆   ✩    ｡☽ <br/>
 ˚  ⋆    ·̩͙. ᘏ▸◂ᘏ .·̩͙    ⋆   ✩    ｡ <br/> 
 ˚    ✩  ꒰   ɞ̴̶̷ ·̮ ɞ̴̶̷ ꒱   ｡  ˚<br/>
