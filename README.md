@@ -7,7 +7,7 @@ Hi there! 👋 Welcome to my cozy GitHub corner. Here you'll find my projects, i
 
 ## 📌 About Me  
 - 💻 **Developer** by day, **dreamer** by night.  
-- 🐾 Cat lover 🐈 and guitarnist 🎸.  
+- 🐾 Cat lover 🐈 and guitarist 🎸.  
 - 🎨 Enjoy drawing and design.  
 
 ---
