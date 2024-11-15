@@ -1,5 +1,5 @@
 # 🌸 Welcome to My GitHub! 🌸  
-![Animated Header](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
+![Animated Header][(https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)](https://giphy.com/gifs/molangofficialpage-fun-friends-3eTFXSUzI5Oi1TW1hx)
 
 Hi there! 👋 Welcome to my cozy GitHub corner. Here you'll find my projects, ideas, and a sprinkle of creativity! 🦄✨  
 
