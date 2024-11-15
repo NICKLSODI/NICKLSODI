@@ -22,7 +22,7 @@ Hi there! 👋 Welcome to my cozy GitHub corner. Here you'll find my projects, i
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NICKLSODI&show_icons=true&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NICKLSODI&show_icons=true&theme=buefy)  
 
 ---
 
